@@ -1,3 +1,2 @@
 # Shooters
-A 2d game
-<P>Was built in a day or 2</p>
+A 2d game built in a day or 2
